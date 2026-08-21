@@ -18,7 +18,3 @@ Este workshop ofrece una introducción práctica al lenguaje C, desde la ejecuci
 ## Asistencia
 
 Registra tu asistencia en el siguiente enlace: [Formulario de asistencia](https://forms.cloud.microsoft/pages/responsepage.aspx?id=G85p_cYg7EK1Tm0bOHCsbsVFPzI54yNBgm6I-R36W1JUMjVaU081Vkk1Q0pYUUdNUkE2RDQwNEtOUy4u&route=shorturl).
-
-También puedes escanear el código QR:
-
-<img src="assets/asis.jpeg" alt="Código QR para registrar asistencia" width="220">
